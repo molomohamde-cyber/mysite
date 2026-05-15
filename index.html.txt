@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>موقعي</title>
+
+<style>
+body{
+font-family:Arial;
+background:#f5f5f5;
+margin:0;
+padding:0;
+}
+
+header{
+background:#1e3a5f;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+.container{
+width:80%;
+margin:auto;
+margin-top:20px;
+}
+
+.box{
+background:white;
+padding:20px;
+border-radius:10px;
+margin-bottom:20px;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+.ad{
+background:#ddd;
+padding:60px;
+text-align:center;
+font-size:30px;
+border-radius:10px;
+}
+</style>
+
+</head>
+<body>
+
+<header>
+<h1>موقعي للربح من الإعلانات</h1>
+</header>
+
+<div class="container">
+
+<div class="ad">
+مكان الإعلان
+</div>
+
+<div class="box">
+<h2>مقال تجريبي</h2>
+<p>
+هذا موقع تجريبي للربح من الإعلانات.
+</p>
+</div>
+
+</div>
+
+</body>
+</html>
